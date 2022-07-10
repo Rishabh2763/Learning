@@ -3,6 +3,20 @@ html {
 }
 
 body {
-  background-color: grey;
-  color: whitesmoke;
+  background-color: #EEEEEE;
+  color: #393E46;
+}
+
+hr{
+  border-style: dotted hidden hidden hidden;
+  width: 10%;
+  border-width: 5px;
+  background-color: #EEEEEE;
+  color: #222831;
+}
+h1{
+  color: #393E46;
+}
+h3{
+  color: #393E46;
 }
