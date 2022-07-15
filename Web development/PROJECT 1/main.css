@@ -1,0 +1,30 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  background-color: #1B2430;
+  color: #43919B;
+}
+
+.pimg{
+  border-radius: 100%;
+}
+
+.pimg:hover{
+  transform: scale(1.25);
+}
+
+hr{
+  border-style: dotted hidden hidden hidden;
+  width: 10%;
+  border-width: 5px;
+  background-color: #1B2430;
+  color: #30AADD;
+}
+h1{
+  color: #30AADD;
+}
+h3{
+  color: #30AADD;
+}
