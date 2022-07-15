@@ -7,6 +7,10 @@ body {
   color: #393E46;
 }
 
+img{
+  border-radius: 100%;
+}
+
 hr{
   border-style: dotted hidden hidden hidden;
   width: 10%;
