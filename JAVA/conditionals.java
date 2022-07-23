@@ -5,28 +5,7 @@ public class conditionals {
   
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
-    // ------------------------leap year--------------------------------------
     
-    
-    System.out.println("enter year");
-    int yr=sc.nextInt();
-
-    if(yr%4==0){
-      if(yr%100==0){
-        if(yr%400==0){
-          System.out.println("leap year");
-        }
-        else{
-          System.out.println("not leap year");
-        }
-      }
-      else{
-        System.out.println("leap year");
-      }
-    }
-    else{
-      System.out.println("not a leap year");
-    }
 
 
     // System.out.println("enter website name");
